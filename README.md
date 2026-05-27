@@ -18,4 +18,4 @@ Interactive dashboard showing business performance
 
 ### 📉 Sales Performance Analysis
 Business analysis with KPIs like profit and revenue  
-🔗 https://github.com/drewmode/Drew_PortFolio/sales-performance-analysis
+🔗 https://github.com/drewmode/sales-performance-analysis
