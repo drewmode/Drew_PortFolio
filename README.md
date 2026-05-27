@@ -1,23 +1,21 @@
-# 👋 Hi, I'm Andrew Diola
-
-🎯 Aspiring Junior Data Analyst passionate about turning data into insights.
-
-## 🛠 Skills
-- Excel (Pivot Tables, Power Query, Power Pivot, Data Cleaning, Data Manipulation)
-- SQL (Joins, Aggregations)
-- Python - Google Colab(Pandas, Matplotlib, Numpy)
-- Data Visualization (Power BI)
+# 👋 Andrew Diola – Data Analyst Portfolio
 
 ## 📊 Projects
-Here are some of my data analysis projects:
 
-### 1. Sales Data Analysis, SQL and Data Visualization 
-- Cleaned and analyzed sales data using Excel
-- Created dashboards for insights
-- [View Project](link-to-project)
+### 🛒 Retail Sales Analysis
+Analyze retail dataset to identify patterns and trends  
+🔗 https://github.com/yourusername/retail-sales-analysis
 
 
-## 📫 Contact Me
-- Email: your-email@gmail.com
-- LinkedIn: your-linkedin
-``
+---
+
+### 📈 Excel Sales Dashboard
+Interactive dashboard showing business performance  
+🔗 https://github.com/yourusername/excel-sales-dashboard
+
+
+---
+
+### 📉 Sales Performance Analysis
+Business analysis with KPIs like profit and revenue  
+🔗 https://github.com/yourusername/sales-performance-analysis
