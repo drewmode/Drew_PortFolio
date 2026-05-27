@@ -4,14 +4,14 @@
 
 ### 🛒 Retail Sales Analysis
 Analyze retail dataset to identify patterns and trends  
-🔗 https://github.com/drewmode/Drew_PortFolio/retail-sales-analysis
+🔗 https://github.com/drewmode/retail-sales-analysis
 
 
 ---
 
 ### 📈 Excel Sales Dashboard
 Interactive dashboard showing business performance  
-🔗 https://github.com/drewmode/Drew_PortFolio/excel-sales-dashboard
+🔗 https://github.com/drewmode/excel-sales-dashboard
 
 
 ---
