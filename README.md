@@ -1,4 +1,4 @@
-# 👋 Andrew Diola – Data Analyst Portfolio
+# 👋 Andrew Diola – Junior Data Analyst Portfolio
 
 ## 📊 Projects
 
